@@ -1,0 +1,84 @@
+[
+    {
+        "title": "Ceramiqueando App",
+        "priority": 1,
+        "description_es": "Creación de una app conceptual como proyecto UX/UI. La app es una comunidad de ceramistas aficionados.",
+        "description_en": "Process of creation of a conceptual app called 'Ceramiqueando' as an UX/Ui project. The app was made to join the community of ceramists for them to have a place to share their own experiences and tutorials.",
+        "behance": "https://www.behance.net/gallery/187112013/Ceramiqueando-App-(UXUI)",
+        "img": "./ceramiqueando.png"
+    },
+    {
+        "title": "Nike - Clone",
+        "priority": 1,
+        "description_es": "Landing page de Nike, realizada con TailwindCSS y el framework de ReactJS, Vite.",
+        "description_en": "Landing page of Nike, made with TailwindCSS and the framework of ReactJS, Vite. With some different sections, to learn more about the proper use of the CSS framework, making it more easy to make a responsive design",
+        "github": "https://github.com/tmaldocena/nike-clone",
+        "website": "https://tmaldocena.github.io/nike-clone/",
+        "img": "./nike.png"
+    },
+    {
+        "title": "Cyberspeed Landing Page",
+        "priority": 1,
+        "description_es": "Landing page de la empresa Cyberspeed, realizada con TailwindCSS y el framework de ReactJS, Vite. Con diseño de logo.",
+        "description_en": "Landing page of Cyberspeed company, made with TailwindCSS and Vite. Improving new styles. Besides, a logo made by me.",
+        "github": "https://github.com/tmaldocena/cyberspeed",
+        "website": "https://tmaldocena.github.io/cyberspeed/",
+        "img": "./cyberspeed.png"
+    },
+    {
+        "title": "CarHub - Showcase",
+        "priority": 1,
+        "description_es": "SPA de una tienda de alquiler de autos, hecha con Next.JS con Tailwind y uso de varias Api con la info de cada auto.",
+        "description_en": "SPA of a Car rent site called 'Carhub'. Made with Next.JS and Tailwind. Using an API to get all the info and images of each car.",
+        "github": "https://github.com/tmaldocena/cars_showcase",
+        "website": "https://cars-showcase-mtkn.vercel.app/",
+        "img": "./carhub.png"
+    },
+    {
+        "title": "Pokedex App",
+        "priority": 1,
+        "description_es": "SPA de una Pokédex, hecha con ReactJS y PokeApi. Hecho con ReactJS, y CSS3 vanilla con la integración de un tema oscuro.",
+        "description_en": "SPA of a Pokedex, made with ReactJS and 'PokeApi'. Made with ReactJS and CSS3 vanilla with dark theme integrated",
+        "github": "https://github.com/tmaldocena/pokedex-app",
+        "website": "https://tmaldocena.github.io/pokedex-app/",
+        "img": "./pokedex.png"
+    },
+    {
+        "title": "Website del escritor F.J",
+        "priority": 1,
+        "description_es": "Proyecto freelance, para reestructurar y corregir el sitio web, hecho en Wordpress.",
+        "description_en": "Freelance job, fixing and redesigning of the whole website made in Wordpress.",
+        "website": "https://sanchezromeroautor.com/",
+        "img": "./fjsanchezromero.png"
+    },
+    {
+        "title": "Café Aroma - Landing Page",
+        "description_es": "Landing page de una cafeteria, realizada con TailwindCSS y Vite.",
+        "description_en": "Landing page of a coffee shop, made with TailwindCSS and Vite. With some different sections, to learn more about the proper use of the CSS framework, making it more easy to make a responsive design",
+        "github": "https://github.com/tmaldocena/cafe-aroma",
+        "website": "https://tmaldocena.github.io/cafe-aroma/",
+        "img": "./cafearoma.png"
+    },
+    {
+        "title": "Lista de Contactos",
+        "description_es": "Lista de contactos como primer proyecto hecho 100% en ReactJS. Consiste en una lista de contactos donde se puede marcar el status del contacto, la creación de nuevo contacto y también eliminar.",
+        "description_en":"Contact List as my first project using ReactJS. A list where the user can change the status of the contact, and also create and delete any number.",
+        "github": "https://github.com/tmaldocena/contactList",
+        "website": "https://tmaldocena.github.io/contactList/"
+        
+    },
+    {
+        "title": "Task List",
+        "description_es": "Task List hecho con HTML5, CSS3 y JavaScript. Con uso de Local Storage para guardar las tareas. Con las opciones de eliminar, marcar como completada y con filtros para ver solamente las tareas pendientes, o las completadas",
+        "description_en": "Task List made with HTML5, CSS3 and JavaScript. Using Local Storage to save any task that is added, with the options of delete, mark as completed and with filters for pending tasks and completed tasks.",
+        "github": "https://github.com/tmaldocena/task-list",
+        "website": "https://tmaldocena.github.io/task-list/"
+    },
+    {
+        "title": "Juego del Ahorcado",
+        "description_es": "Juego del ahorcado. Hecho en HTML5, CSS3, JavaScript. Proyecto realizado de practica de uso de JavaScript. Con una base de palabras ya creadas y la posibilidad de jugar con otra persona, creando otra palabra.",
+        "description_en": "Hangman game, made with JavaScript, CSS3 and HTML5. Project made to learn more about JavaScript. With a base of words already created and implemented the chance of playing with someone locally, creating a new word to guess.",
+        "github": "https://github.com/tmaldocena/juego_del_ahorcado",
+        "website": "https://tmaldocena.github.io/juego_del_ahorcado/"
+    }
+]
