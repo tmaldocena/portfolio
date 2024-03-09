@@ -8,18 +8,25 @@ import Error404 from './pages/Error404'
 import Layout from './components/Layout'
 import { useEffect, useState } from 'react'
 import { CSSTransition, TransitionGroup } from 'react-transition-group'
+import Loading from './components/Loading'
 
 function App() {
   let location = useLocation()
 
   //* true = español | false = ingles
   const [lang, setLang] = useState(true);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
       window.history.replaceState(null, null, `?lang=${lang === true ? 'es' : 'en'}`);
   }, [lang]);
 
+  useEffect(() => {
+    let loading = setTimeout(() => setLoading(false), 1400);
+  }, []);
+
   return (
+    (loading && <Loading /> ||
     <Layout lang={lang} setLang={setLang}>
       <TransitionGroup component={null}>
         <CSSTransition key={location.key} timeout={3500} classNames='fade'>
@@ -33,6 +40,7 @@ function App() {
         </CSSTransition>
       </TransitionGroup>
     </Layout>
+    )
   )
 }
 
