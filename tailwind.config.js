@@ -76,6 +76,10 @@ export default {
         "main": '#EEB902',
         "second": '#2D7DD2'
       },
+      backgroundImage:{
+        'cyberspeed': "url(./cyberspeed.png)",
+        'nike': "url(./nike.png)"
+      }
     }
   },
   plugins: [require("daisyui")],
