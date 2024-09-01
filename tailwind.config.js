@@ -79,7 +79,8 @@ export default {
       backgroundImage:{
         'cyber': "url('./cyberspeed.png')",
         'nike': "url('./nike.png')",
-        'portamedallas': "url('./portamedallas.png')"
+        'portamedallas': "url('./portamedallas.png')",
+        'fjsanchez': "url('./fjsanchezromero.png')"
       }
     }
   },

@@ -16,13 +16,12 @@
         "img": "./portamedallas.png"
     },
     {
-        "title": "Cyberspeed Landing Page",
+        "title": "Website del escritor F.J",
         "priority": 1,
-        "description_es": "Landing page de la empresa Cyberspeed, realizada con TailwindCSS y el framework de ReactJS, Vite. Con diseño de logo.",
-        "description_en": "Landing page of Cyberspeed company, made with TailwindCSS and Vite. Improving new styles. Besides, a logo made by me.",
-        "github": "https://github.com/tmaldocena/cyberspeed",
-        "website": "https://tmaldocena.github.io/cyberspeed/",
-        "img": "./cyberspeed.png"
+        "description_es": "Proyecto freelance, para reestructurar y corregir el sitio web, hecho en Wordpress.",
+        "description_en": "Freelance job, fixing and redesigning of the whole website made in Wordpress.",
+        "website": "https://sanchezromeroautor.com/",
+        "img": "./fjsanchezromero.png"
     },
     {
         "title": "CarHub - Showcase",
@@ -43,12 +42,13 @@
         "img": "./pokedex.png"
     },
     {
-        "title": "Website del escritor F.J",
+        "title": "Cyberspeed Landing Page",
         "priority": 1,
-        "description_es": "Proyecto freelance, para reestructurar y corregir el sitio web, hecho en Wordpress.",
-        "description_en": "Freelance job, fixing and redesigning of the whole website made in Wordpress.",
-        "website": "https://sanchezromeroautor.com/",
-        "img": "./fjsanchezromero.png"
+        "description_es": "Landing page de la empresa Cyberspeed, realizada con TailwindCSS y el framework de ReactJS, Vite. Con diseño de logo.",
+        "description_en": "Landing page of Cyberspeed company, made with TailwindCSS and Vite. Improving new styles. Besides, a logo made by me.",
+        "github": "https://github.com/tmaldocena/cyberspeed",
+        "website": "https://tmaldocena.github.io/cyberspeed/",
+        "img": "./cyberspeed.png"
     },
     {
         "title": "Café Aroma - Landing Page",
