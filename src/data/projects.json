@@ -8,13 +8,12 @@
         "img": "./ceramiqueando.png"
     },
     {
-        "title": "Nike - Clone",
+        "title": "Portamedallas Ecommerce",
         "priority": 1,
-        "description_es": "Landing page de Nike, realizada con TailwindCSS y el framework de ReactJS, Vite.",
-        "description_en": "Landing page of Nike, made with TailwindCSS and the framework of ReactJS, Vite. With some different sections, to learn more about the proper use of the CSS framework, making it more easy to make a responsive design",
-        "github": "https://github.com/tmaldocena/nike-clone",
-        "website": "https://tmaldocena.github.io/nike-clone/",
-        "img": "./nike.png"
+        "description_es": "Ecommerce desarrollado con React, Node y Turso (SQL Server) como proyecto freelance",
+        "description_en": "Ecommerce made with React, Node and Turso (SQL Server) as a freelance project.",
+        "website": "https://www.portamedallas.com",
+        "img": "./portamedallas.png"
     },
     {
         "title": "Cyberspeed Landing Page",
@@ -80,5 +79,13 @@
         "description_en": "Hangman game, made with JavaScript, CSS3 and HTML5. Project made to learn more about JavaScript. With a base of words already created and implemented the chance of playing with someone locally, creating a new word to guess.",
         "github": "https://github.com/tmaldocena/juego_del_ahorcado",
         "website": "https://tmaldocena.github.io/juego_del_ahorcado/"
+    },
+    {
+        "title": "Nike - Clone",
+        "description_es": "Landing page de Nike, realizada con TailwindCSS y el framework de ReactJS, Vite.",
+        "description_en": "Landing page of Nike, made with TailwindCSS and the framework of ReactJS, Vite. With some different sections, to learn more about the proper use of the CSS framework, making it more easy to make a responsive design",
+        "github": "https://github.com/tmaldocena/nike-clone",
+        "website": "https://tmaldocena.github.io/nike-clone/",
+        "img": "./nike.png"
     }
 ]

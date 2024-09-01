@@ -77,8 +77,9 @@ export default {
         "second": '#2D7DD2'
       },
       backgroundImage:{
-        'cyberspeed': "url(./cyberspeed.png)",
-        'nike': "url(./nike.png)"
+        'cyber': "url('./cyberspeed.png')",
+        'nike': "url('./nike.png')",
+        'portamedallas': "url('./portamedallas.png')"
       }
     }
   },
