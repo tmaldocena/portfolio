@@ -12,16 +12,16 @@
         "priority": 1,
         "description_es": "Ecommerce desarrollado con React, Node y Turso (SQL Server) como proyecto freelance",
         "description_en": "Ecommerce made with React, Node and Turso (SQL Server) as a freelance project.",
-        "website": "https://www.portamedallas.com",
+        "website": "https://portamedallas-d8psdigqc-tmaldocenas-projects.vercel.app/",
         "img": "./portamedallas.png"
     },
     {
-        "title": "Website del escritor F.J",
+        "title": "YoPiloto - Study Case",
         "priority": 1,
-        "description_es": "Proyecto freelance, para reestructurar y corregir el sitio web, hecho en Wordpress.",
-        "description_en": "Freelance job, fixing and redesigning of the whole website made in Wordpress.",
-        "website": "https://sanchezromeroautor.com/",
-        "img": "./fjsanchezromero.png"
+        "description_es": "Proyecto UX/UI, para la revisión de una app de control de vehiculo llamada YoPiloto",
+        "description_en": "UX/UI project, reviewing an app called YoPiloto, a vehicle control app.",
+        "behance": "https://www.behance.net/gallery/204185699/YoPiloto-%28case-study-UXUI%29",
+        "img": "./yopiloto.png"
     },
     {
         "title": "CarHub - Showcase",
