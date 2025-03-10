@@ -41,7 +41,7 @@ const Portfolio = ({ lang }) => {
   if(!isMobile){
     return (
       <div className="grid grid-cols-4 grid-rows-3 content-center px-8 gap-6 h-[85vh]">
-        <CardTall classes="row-span-2  rounded-2xl text-white bg-fjsanchez border-second" project={priority[2]} lang={lang} ></CardTall>
+        <CardTall classes="row-span-2  rounded-2xl text-white bg-yopiloto border-second" project={priority[2]} lang={lang} ></CardTall>
 
         <CardTall classes="row-span-2 col-start-4 row-start-2 bg-white rounded-2xl text-white bg-portamedallas border-main" project={priority[1]} lang={lang} ></CardTall>
 

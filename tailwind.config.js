@@ -80,7 +80,8 @@ export default {
         'cyber': "url('./cyberspeed.png')",
         'nike': "url('./nike.png')",
         'portamedallas': "url('./portamedallas.png')",
-        'fjsanchez': "url('./fjsanchezromero.png')"
+        'fjsanchez': "url('./fjsanchezromero.png')",
+        'yopiloto': "url('./yopiloto.png')",
       }
     }
   },
