@@ -33,12 +33,12 @@
         "img": "./carhub.png"
     },
     {
-        "title": "Pokedex App",
+        "title": "Maguito Studio",
         "priority": 1,
-        "description_es": "SPA de una Pokédex, hecha con ReactJS y PokeApi. Hecho con ReactJS, y CSS3 vanilla con la integración de un tema oscuro.",
-        "description_en": "SPA of a Pokedex, made with ReactJS and 'PokeApi'. Made with ReactJS and CSS3 vanilla with dark theme integrated",
-        "github": "https://github.com/tmaldocena/pokedex-app",
-        "website": "https://tmaldocena.github.io/pokedex-app/",
+        "description_es": "Landing Page de mi estudio creativo de diseño gráfico y desarrollo web, Maguito Studio. Hecha con Astro y TailwindCSS.",
+        "description_en": "Landing Page of my creative design and web development studio, Maguito Studio. Made with Astro and TailwindCSS.",
+        "github": "https://github.com/tmaldocena/maguitostudio",
+        "website": "https://maguitostudio.vercel.app",
         "img": "./pokedex.png"
     },
     {
